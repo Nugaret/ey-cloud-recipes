@@ -158,3 +158,4 @@
   # postgresql9_pg_buffercache "postgres"
   # postgresql9_pg_freespacemap "postgres"
 # end
+require_recipe "collectd_disable"
